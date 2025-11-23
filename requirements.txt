@@ -15,3 +15,5 @@ gTTS
 bs4
 pinecone
 langchain-pinecone
+langchain-core
+langchain-classic
